@@ -1,0 +1,71 @@
+﻿  camera.cpp
+D:\projects\OpenGLproject\OpenGLproject\camera.cpp(33,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\camera.cpp(36,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\camera.cpp(38,16): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\camera.cpp(40,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\camera.cpp(45,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\camera.cpp(46,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\projects\OpenGLproject\OpenGLproject\main.h(140,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(51,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(62,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(66,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(67,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(114,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(114,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(115,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(117,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(118,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(139,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(156,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(157,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(200,30): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(207,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(209,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(210,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(211,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(213,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(214,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(249,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(253,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(257,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(259,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(260,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(266,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(277,14): warning C4305: '+=': truncation from 'double' to 'float'
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(285,12): warning C4552: '-': result of expression not used
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(286,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(314,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(332,22): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(332,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(332,33): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(332,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(335,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(348,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(363,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(426,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(429,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(439,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(439,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(440,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(440,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(505,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(506,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(507,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(598,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(598,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(599,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(599,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(614,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(614,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(626,26): warning C4018: '>': signed/unsigned mismatch
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(630,32): warning C4018: '>': signed/unsigned mismatch
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(641,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(641,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(642,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(642,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(736,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(736,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\projects\OpenGLproject\OpenGLproject\main.cpp(846,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Generating Code...
+  OpenGLproject.vcxproj -> D:\projects\OpenGLproject\x64\Debug\OpenGLproject.exe
